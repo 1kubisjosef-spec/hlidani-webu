@@ -37,8 +37,6 @@ sites:
     maxResponseTime: 15000
     __dangerous__body_down: "došlo k závažné chybě"
     __dangerous__body_down_if_text_missing: "</html>"
-  - name: TEST - smazat
-    url: https://kubisstudio.cz/test-hlidani-neexistuje-12345
 
 status-website:
   baseUrl: /hlidani-webu
