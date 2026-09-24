@@ -10,63 +10,33 @@ sites:
   - name: Kubis Studio
     url: https://kubisstudio.cz
     maxResponseTime: 15000
-    __dangerous__body_down:
-      - "Na webu došlo k závažné chybě"
-      - "There has been a critical error"
-      - "Chyba při navazování spojení s databází"
-      - "Error establishing a database connection"
-    __dangerous__body_down_if_text_missing:
-      - "</html>"
+    __dangerous__body_down: "došlo k závažné chybě"
+    __dangerous__body_down_if_text_missing: "</html>"
   - name: CleanPoint
     url: https://clean-point.cz
     maxResponseTime: 15000
-    __dangerous__body_down:
-      - "Na webu došlo k závažné chybě"
-      - "There has been a critical error"
-      - "Chyba při navazování spojení s databází"
-      - "Error establishing a database connection"
-    __dangerous__body_down_if_text_missing:
-      - "</html>"
+    __dangerous__body_down: "došlo k závažné chybě"
+    __dangerous__body_down_if_text_missing: "</html>"
   - name: Nymburk s klidem
     url: https://www.nymburksklidem.cz
     maxResponseTime: 15000
-    __dangerous__body_down:
-      - "Na webu došlo k závažné chybě"
-      - "There has been a critical error"
-      - "Chyba při navazování spojení s databází"
-      - "Error establishing a database connection"
-    __dangerous__body_down_if_text_missing:
-      - "</html>"
+    __dangerous__body_down: "došlo k závažné chybě"
+    __dangerous__body_down_if_text_missing: "</html>"
   - name: Chalupa Studce
     url: https://nejlepsichalupa.cz
     maxResponseTime: 15000
-    __dangerous__body_down:
-      - "Na webu došlo k závažné chybě"
-      - "There has been a critical error"
-      - "Chyba při navazování spojení s databází"
-      - "Error establishing a database connection"
-    __dangerous__body_down_if_text_missing:
-      - "</html>"
+    __dangerous__body_down: "došlo k závažné chybě"
+    __dangerous__body_down_if_text_missing: "</html>"
   - name: Nejlepsi zahrady
     url: https://nejlepsizahrady.cz
     maxResponseTime: 15000
-    __dangerous__body_down:
-      - "Na webu došlo k závažné chybě"
-      - "There has been a critical error"
-      - "Chyba při navazování spojení s databází"
-      - "Error establishing a database connection"
-    __dangerous__body_down_if_text_missing:
-      - "</html>"
+    __dangerous__body_down: "došlo k závažné chybě"
+    __dangerous__body_down_if_text_missing: "</html>"
   - name: Pavlina Vrabcova
     url: https://pavlinavrabcovazafotakem.cz
     maxResponseTime: 15000
-    __dangerous__body_down:
-      - "Na webu došlo k závažné chybě"
-      - "There has been a critical error"
-      - "Chyba při navazování spojení s databází"
-      - "Error establishing a database connection"
-    __dangerous__body_down_if_text_missing:
-      - "</html>"
+    __dangerous__body_down: "došlo k závažné chybě"
+    __dangerous__body_down_if_text_missing: "</html>"
 
 status-website:
   baseUrl: /hlidani-webu
