@@ -4,99 +4,109 @@
     "url": "https://kubisstudio.cz",
     "icon": "https://icons.duckduckgo.com/ip3/kubisstudio.cz.ico",
     "slug": "kubis-studio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1646,
     "timeDay": 1114,
     "timeWeek": 1564,
     "timeMonth": 1646,
     "timeYear": 1646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-02": 24
+    }
   },
   {
     "name": "CleanPoint",
     "url": "https://clean-point.cz",
     "icon": "https://icons.duckduckgo.com/ip3/clean-point.cz.ico",
     "slug": "clean-point",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1476,
     "timeDay": 1062,
     "timeWeek": 1450,
     "timeMonth": 1476,
     "timeYear": 1476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-02": 20
+    }
   },
   {
     "name": "Nymburk s klidem",
     "url": "https://www.nymburksklidem.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.nymburksklidem.cz.ico",
     "slug": "nymburk-s-klidem",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 2576,
     "timeDay": 2169,
     "timeWeek": 2589,
     "timeMonth": 2576,
     "timeYear": 2576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-02": 15
+    }
   },
   {
     "name": "Chalupa Studce",
     "url": "https://nejlepsichalupa.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nejlepsichalupa.cz.ico",
     "slug": "chalupa-studce",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1335,
     "timeDay": 1036,
     "timeWeek": 1265,
     "timeMonth": 1335,
     "timeYear": 1335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-02": 10
+    }
   },
   {
     "name": "Nejlepsi zahrady",
     "url": "https://nejlepsizahrady.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nejlepsizahrady.cz.ico",
     "slug": "nejlepsi-zahrady",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1465,
     "timeDay": 1033,
     "timeWeek": 1451,
     "timeMonth": 1465,
     "timeYear": 1465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-02": 5
+    }
   },
   {
     "name": "Pavlina Vrabcova",
     "url": "https://pavlinavrabcovazafotakem.cz",
     "icon": "https://icons.duckduckgo.com/ip3/pavlinavrabcovazafotakem.cz.ico",
     "slug": "pavlina-vrabcova",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 1573,
     "timeMonth": 1470,
     "timeYear": 1470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-02": 0
+    }
   }
 ]
